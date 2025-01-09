@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Andy, an aspiring Software Engineer with a strong background in fullstack development.
-
+I'm Andy, an aspiring Software Engineer passionate about building services and solving problems.<br><br>
 💼 Experience<br>
 Software Engineer Intern @ Dassault Systèmes (2023 - 2024)<br>
 Software Engineer Intern @ Ahnlab, Inc (2022)<br>
@@ -13,8 +12,8 @@ Database & DevOps: MySQL, PostgreSQL, MongoDB, Power BI<br>
 Tools: Git, AWS, Jira, Nginx, VMWare<br>
 
 ### Contact me
-email: andy.nam.engineering@gmail.com<br>
-Portfolio website: [Portfolio](https://ndk6879.github.io/portfolio/)
+Email: andy.nam.engineering@gmail.com<br>
+Portfolio Website: [Portfolio](https://ndk6879.github.io/portfolio/)
 
 
 <!--

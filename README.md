@@ -4,12 +4,6 @@ I'm Andy, an aspiring Software Engineer passionate about building services and s
 💼 Experience<br>
 Software Engineer Intern @ Dassault Systèmes (2023 - 2024)<br>
 Software Engineer Intern @ Ahnlab, Inc (2022)<br>
-<br>
- 🖥️ Skills<br>
-Language: Python, Java, Go, JavaScript, C/C++<br>
-Libraries/Framework: React, Node.js, Express, jQuery, Django, OCR<br>
-Database & DevOps: MySQL, PostgreSQL, MongoDB, Power BI<br>
-Tools: Git, AWS, Jira, Nginx, VMWare<br>
 
 ### Contact me
 Email: andy.nam.engineering@gmail.com<br>

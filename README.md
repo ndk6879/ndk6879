@@ -12,7 +12,7 @@ Libraries/Framework: React, Node.js, Express, jQuery, Django, OCR<br>
 Database & DevOps: MySQL, PostgreSQL, MongoDB, Power BI<br>
 Tools: Git, AWS, Jira, Nginx, VMWare<br>
 
-Contact me<br>
+### Contact me
 email: andy.nam.engineering@gmail.com<br>
 Portfolio website: [Portfolio](https://ndk6879.github.io/portfolio/)
 

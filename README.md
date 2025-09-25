@@ -2,6 +2,7 @@
 
 I'm Andy, an aspiring Software Engineer passionate about building services and solving problems.<br><br>
 💼 Experience<br>
+Web Development Intern @ Utz Brands, Inc (2025)<br>
 Software Engineer Intern @ Dassault Systèmes (2023 - 2024)<br>
 Software Engineer Intern @ Ahnlab, Inc (2022)<br>
 
